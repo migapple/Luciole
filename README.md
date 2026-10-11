@@ -2,9 +2,7 @@
 
 For any questions or issues, please contact: michel.garlandat@icloud.com
 
-How to play
-
-select the Quiz
+How to play on the welcome screen
 
 Privacy Policy
 
